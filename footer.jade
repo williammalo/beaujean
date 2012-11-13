@@ -1,0 +1,59 @@
+</div>
+footer
+	if lang=="fr"
+		p.first Liens utiles:
+	if lang=="en"
+		p.first Usefull links
+	a.footlink(href="//saaq.gouv.qc.ca", target="_blank") 
+		.txt S.A.A.Q.
+		img(src="logo/saaq.gif")
+	a.footlink(href="//www.mtq.gouv.qc.ca", target="_blank")
+		.txt Transport Quebec - Weights & Measures
+		img(src="logo/mtq.gif")
+	a.footlink(href="//www.ctq.gouv.qc.ca", target="_blank")
+		.txt Commission de Transport du Quebec
+		img(src="logo/ctq.gif")
+	a.footlink(href="//carrefour-acq.org", target="_blank")
+		.txt Association du Camionnage du Quebec
+		img(src="logo/acq.jpg")
+	a.footlink(href="//cptq.ca", target="_blank")
+		.txt Club des Professionnel du Transport du Quebec
+		img(src="logo/cptq.jpg")
+	a.footlink(href="//ctcq.ca", target="_blank")
+		.txt Comite Technique de Camionnage du Quebec
+		img(src="logo/ctcq.jpg")
+	a.footlink(href="//tcmtl.com", target="_blank")
+		.txt Club de Trafic de Montreal
+		img(src="logo/tcmtl.png")
+	a.footlink(href="//pmtc.ca", target="_blank")
+		.txt Private Motor Truck Council of Canada
+		img(src="logo/pmtc.gif")
+	a.footlink(href="//ontruck.org", target="_blank")
+		.txt Ontario Trucking Association
+		img(src="logo/ontruck.gif")
+	a.footlink(href="//cantruck.ca", target="_blank")
+		.txt Canadian Trucking Alliance
+		img(src="logo/cantruck.jpg")
+
+	if lang=="fr"
+		p &copy; <script>document.write((new Date).getFullYear())</script> Location Beaujean<br>conception: <a href="http://maloweb.com">maloweb.com</a>
+	if lang=="en"
+		p &copy; <script>document.write((new Date).getFullYear())</script> Beaujean Leasing<br>Website by: <a href="http://maloweb.com">maloweb.com</a>
+
+<script>ie=false</script>
+<!--[if lt IE 9]>
+<script>ie=true</script>
+<![endif]-->
+script
+	index=0
+	images=document.getElementById("slide").getElementsByTagName("img")
+	slideshow=function(){
+	for(i=images.length;i--;)images[i].style.opacity=0
+	images[index].style.opacity=1
+	if(ie){
+		for(i=images.length;i--;)images[i].style.visibility="hidden"
+		images[index].style.visibility="visible"
+	}
+	index=(index+1)%images.length
+	}
+	setInterval(slideshow,5000)

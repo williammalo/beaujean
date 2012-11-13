@@ -1,0 +1,283 @@
+@import '../lib/nib/'
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//globals
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+brandblue= desaturate(lighten(#002B7F,40%),30%)
+brandblue= #2A6DB0
+//brandblue= #41b7d8
+brandh= #41b7d8
+*
+	box-sizing:     border-box
+	text-rendering: optimizeLegibility
+	position:       relative
+
+img
+	max-width: 100%
+	border: none
+
+body
+	margin: 0
+	font-family: 'Oswald',"Helvetica Neue", sans-serif
+	color: #333
+	.pagewrap
+		background: url(bg.svg) bottom left no-repeat //linear-gradient(top,#fff,#eee) 
+	background-size:contain
+
+html,body
+	min-height: 100%
+	font-size: 18px
+
+h1,h2,h3,h4,h5
+	text-transform: uppercase
+	text-shadow: 0 1px 0 #fff
+	line-height: 1.8em
+
+p
+	-webkit-hyphens: auto
+	-moz-hyphens: auto
+	-ms-hyphens: auto
+	hyphens: auto
+
+a
+	color: brandblue
+	text-decoration: underline
+
+a:active
+	color: brandh
+
+p,address,ul,footer
+	line-height: 1.8em
+	font-style:normal
+
+p img, ul img
+	border:solid 10px white
+	margin-left: 15px
+	transform: rotate(2deg)
+	width:50%
+	max-width: 200px
+
+iframe
+	border:solid 10px white
+	width:100%
+	height:300px
+	margin:1em 0
+
+::selection
+	background: rgba(brandblue,0.5)
+	text-shadow: none
+
+a::selection
+		color: #fff
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//modules
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+aside,.content,aside nav,header,footer,.module,footer>ul
+	display: inline-block
+	vertical-align: top
+	padding: 30px
+	width: 100%
+
+aside nav,header,p img,ul img,iframe,footer,.footlink,.home .left address
+	box-shadow: 0 0 6px rgba(#000,0.15)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+.pagewrap>header>img
+	margin-bottom:-30%
+	width:100%
+.pagewrap>header
+	overflow:hidden
+	display:none
+
+aside
+	//background: #eee
+	width: 33.3%
+	padding-right:0
+	h1
+		text-align:center
+
+	nav 
+		background: #eee
+		z-index:1
+		padding:30px
+		padding-left:48px
+		border-right:solid 20px #ddd
+		a
+			display: block
+			width:100%
+			color: black
+			text-decoration: none
+			text-shadow: 0 1px 0 #eee
+			&:before
+				content:""
+				display:inline-block
+				position:absolute
+				background:#ccc
+				left:-30px
+				top:6px
+				width:16px
+				height:16px
+				box-shadow: 0 0 6px rgba(#000,0.15)
+		a:hover:not(:active)
+			color: brandblue
+			text-decoration: underline
+		a+a
+			margin-top:30px
+			//margin-top: 0.5em
+			//padding-top:0.5em
+			//border-top:solid 1px #ccc
+
+.bindex nav a:nth-child(1):before, .bservice nav a:nth-child(2):before, .bequipement nav a:nth-child(3):before
+	background:brandblue
+	box-shadow: 0 0 6px rgba(brandblue,0.7)
+
+.content
+	width: 66.6%
+	header
+		overflow:hidden
+		font-size:0
+		line-height: 0
+		background: brandblue
+		padding: 0
+		margin-bottom:30px
+		border: solid 10px white
+		&:after
+			content:""
+			display:block
+			//margin-top:40%
+			margin-top:44%
+			height:0
+			width:100%
+		img
+			width:100%
+			position:absolute
+			transition: opacity 1s
+	.left
+	.right
+		width: 50%
+	.left
+		padding: 0px
+		padding-right: 15px
+	.right
+		padding: 0px
+		padding-left: 15px
+
+footer
+	text-align: center
+	font-size: 12px
+	color: #aaa
+	background: #eee
+	text-shadow: 0 1px 0 #fff
+	border-bottom:solid 20px #ddd
+	p
+		margin: 0
+		margin-top:15px
+	p.first
+		margin: 0
+		margin-bottom:15px
+	.footlink
+		display:inline-block
+		width:auto
+		height:auto
+		overflow:hidden
+		margin:5px
+		margin-top:0
+		border: solid 5px #fff
+		background: #fff
+		img
+			width:auto
+			height:72px
+			padding:0
+			display:block
+		.txt
+			position:absolute
+			top:400px
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//page specific hacks
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+.home.content>address span
+	position: absolute
+	left: 50px
+
+.home .left address
+	border:solid 10px white
+	background:white
+	display:inline-block
+	img
+		width:30%
+		float:left
+		margin-right:10px
+	h4
+	h5
+	p
+		margin:0
+		text-transform: none
+
+.home .left address+address
+	margin-top:10px
+
+.home.content header:after
+	margin-top:66%
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//@media
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+@media screen and (max-width: 700px)
+	.content 
+		.module
+			width: 100%
+		.left
+			padding: 0
+		.right
+			padding: 0
+@media screen and (max-width: 1000px)
+	aside,.content
+		width: 100%
+	.pagewrap>header
+		display:inline-block
+		padding:0
+	.content header
+		display:none
+	aside
+		padding:0
+		h1
+			display:none
+		nav
+			padding:10px 30px
+			padding-left:45px
+		nav a
+			display: inline-block
+			width:auto
+		nav a+a
+			margin: 0
+			padding:0
+			margin-left: 50px
+			border:none
+		img
+			max-width:70%
+		ul
+			display:none
+
+.content header
+	margin:0 !important
+
+@media screen and (max-width: 500px)
+	aside nav a
+		display: block
+		margin:0 !important
+/*
+@css{
+@media only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+	html,header: after,article>div{background-size: 50px 50px}
+	h1{background-image: url(topretina.png);background-size: 454px 221px}
+
+}
+}
+*/
