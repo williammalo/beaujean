@@ -1,6 +1,6 @@
 {
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
-  "creatorBuild" : "7839",
+  "creatorBuild" : "7978",
   "files" : {
     "\/beaujean-en\/parking.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -13,16 +13,14 @@
       "initialSize" : 192499,
       "fileType" : 4096
     },
-    "\/beaujean-fr\/image001.jpg" : {
+    "\/beaujean-en\/index.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/image001.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/image001.jpg",
-      "initialSize" : 425941,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/beaujean-en\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/beaujean-en\/logo\/cptq.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -33,17 +31,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/beaujean-en\/logo\/cptq.jpg",
       "initialSize" : 4804,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/spada.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/spada.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/spada.jpg",
-      "initialSize" : 197011,
       "fileType" : 4096
     },
     "\/beaujean-fr\/logo.png" : {
@@ -57,12 +44,12 @@
       "initialSize" : 27056,
       "fileType" : 8192
     },
-    "\/beaujean-fr\/404.html" : {
+    "\/beaujean-fr\/footer.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/404.html",
+      "inputAbbreviatedPath" : "\/beaujean-fr\/footer.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -77,17 +64,6 @@
       "outputAbbreviatedPath" : "\/beaujean-en\/mediaqueries-ck.js",
       "fileType" : 64
     },
-    "\/beaujean-en\/beaudry.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/beaudry.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/beaudry.jpg",
-      "initialSize" : 170075,
-      "fileType" : 4096
-    },
     "\/beaujean-fr\/logo\/cantruck.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -98,17 +74,6 @@
       "outputAbbreviatedPath" : "\/beaujean-fr\/logo\/cantruck.jpg",
       "initialSize" : 5903,
       "fileType" : 4096
-    },
-    "\/beaujean-en\/index.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/index.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/index.html",
-      "fileType" : 512
     },
     "\/beaujean-en\/ie9.js" : {
       "ignoreWasSetByUser" : 0,
@@ -121,12 +86,23 @@
       "outputAbbreviatedPath" : "\/beaujean-en\/ie9-ck.js",
       "fileType" : 64
     },
-    "\/beaujean-fr\/footer.html" : {
+    "\/beaujean-en\/index.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/footer.html",
+      "inputAbbreviatedPath" : "\/beaujean-en\/index.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-en\/index.html",
+      "fileType" : 512
+    },
+    "\/beaujean-fr\/404.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/404.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -141,15 +117,6 @@
       "initialSize" : 3662,
       "fileType" : 4096
     },
-    "\/beaujean-en\/service.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/service.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/beaujean-fr\/equipement.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -161,25 +128,14 @@
       "outputAbbreviatedPath" : "\/beaujean-fr\/equipement.html",
       "fileType" : 512
     },
-    "\/beaujean-en\/index.html" : {
+    "\/beaujean-en\/service.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/index.html",
+      "inputAbbreviatedPath" : "\/beaujean-en\/service.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/beaujean-fr\/truck.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/truck.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/truck.jpg",
-      "initialSize" : 246607,
-      "fileType" : 4096
     },
     "\/beaujean-fr\/reefern.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -190,17 +146,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/beaujean-fr\/reefern.jpg",
       "initialSize" : 58634,
-      "fileType" : 4096
-    },
-    "\/beaujean-en\/lemay.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/lemay.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/lemay.jpg",
-      "initialSize" : 238786,
       "fileType" : 4096
     },
     "\/beaujean-fr\/logo\/ctcq.jpg" : {
@@ -214,38 +159,14 @@
       "initialSize" : 12720,
       "fileType" : 4096
     },
-    "\/beaujean-fr\/ss2.jpg" : {
+    "\/beaujean-en\/equipement.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/ss2.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/ss2.jpg",
-      "initialSize" : 1073886,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/hs0.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/hs0.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/hs0.jpg",
-      "initialSize" : 283088,
-      "fileType" : 4096
-    },
-    "\/beaujean-en\/spada.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/spada.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/spada.jpg",
-      "initialSize" : 197011,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/beaujean-en\/equipement.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/beaujean-en\/404.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -258,26 +179,6 @@
       "outputAbbreviatedPath" : "\/beaujean-en\/404.html",
       "fileType" : 512
     },
-    "\/beaujean-en\/equipement.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/equipement.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/beaujean-fr\/es1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/es1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/es1.jpg",
-      "initialSize" : 437019,
-      "fileType" : 4096
-    },
     "\/beaujean-fr\/style.styl" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -289,17 +190,6 @@
       "outputAbbreviatedPath" : "\/beaujean-fr\/style.css",
       "fileType" : 8,
       "debugStyle" : 0
-    },
-    "\/beaujean-en\/image001.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/image001.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/image001.jpg",
-      "initialSize" : 425941,
-      "fileType" : 4096
     },
     "\/beaujean-fr\/favicon.png" : {
       "ignoreWasSetByUser" : 0,
@@ -329,28 +219,6 @@
       "inputAbbreviatedPath" : "\/beaujean-fr\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/beaujean-en\/truck.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/truck.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/truck.jpg",
-      "initialSize" : 246607,
-      "fileType" : 4096
-    },
-    "\/beaujean-en\/fortin.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/fortin.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/fortin.jpg",
-      "initialSize" : 223207,
-      "fileType" : 4096
     },
     "\/beaujean-en\/logo\/acq.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -385,17 +253,6 @@
       "outputAbbreviatedPath" : "\/beaujean-fr\/index.html",
       "fileType" : 512
     },
-    "\/beaujean-en\/dude.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/dude.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/dude.jpg",
-      "initialSize" : 209008,
-      "fileType" : 4096
-    },
     "\/beaujean-fr\/ie9.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -429,28 +286,6 @@
       "initialSize" : 5903,
       "fileType" : 4096
     },
-    "\/beaujean-en\/truck2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/truck2.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/truck2.jpg",
-      "initialSize" : 274857,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/image001.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/image001.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/image001.png",
-      "initialSize" : 2040194,
-      "fileType" : 8192
-    },
     "\/beaujean-en\/style.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -459,17 +294,6 @@
       "inputAbbreviatedPath" : "\/beaujean-en\/style.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
-    },
-    "\/beaujean-fr\/lalonde.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/lalonde.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/lalonde.jpg",
-      "initialSize" : 274179,
-      "fileType" : 4096
     },
     "\/beaujean-en\/footer.html" : {
       "ignoreWasSetByUser" : 0,
@@ -510,28 +334,6 @@
       "inputAbbreviatedPath" : "\/beaujean-fr\/equipement.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/beaujean-fr\/es2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/es2.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/es2.jpg",
-      "initialSize" : 494451,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/hs1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/hs1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/hs1.jpg",
-      "initialSize" : 216783,
-      "fileType" : 4096
     },
     "\/footer.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -586,27 +388,14 @@
       "initialSize" : 192499,
       "fileType" : 4096
     },
-    "\/beaujean-fr\/fortin.jpg" : {
+    "\/beaujean-fr\/google13bd3d1c336b7d4c.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/fortin.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/fortin.jpg",
-      "initialSize" : 223207,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/beaudry.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/beaudry.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/beaudry.jpg",
-      "initialSize" : 170075,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/beaujean-fr\/google13bd3d1c336b7d4c.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/style.styl" : {
       "ignoreWasSetByUser" : 0,
@@ -619,26 +408,6 @@
       "outputAbbreviatedPath" : "\/style.css",
       "fileType" : 8,
       "debugStyle" : 0
-    },
-    "\/beaujean-fr\/google13bd3d1c336b7d4c.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/google13bd3d1c336b7d4c.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/beaujean-en\/image001.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/image001.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/image001.png",
-      "initialSize" : 2040194,
-      "fileType" : 8192
     },
     "\/beaujean-fr\/service.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -673,15 +442,15 @@
       "initialSize" : 1615,
       "fileType" : 8192
     },
-    "\/beaujean-fr\/truck2.jpg" : {
+    "\/beaujean-en\/logo\/ctcq.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/truck2.jpg",
+      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/ctcq.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/truck2.jpg",
-      "initialSize" : 274857,
+      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/ctcq.jpg",
+      "initialSize" : 12720,
       "fileType" : 4096
     },
     "\/head.jade" : {
@@ -695,39 +464,6 @@
       "outputAbbreviatedPath" : "\/head.html",
       "fileType" : 512
     },
-    "\/beaujean-en\/logo\/ctcq.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/ctcq.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/ctcq.jpg",
-      "initialSize" : 12720,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/hs2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/hs2.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/hs2.jpg",
-      "initialSize" : 170540,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/ss0.JPG" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/ss0.JPG",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/ss0.JPG",
-      "initialSize" : 260644,
-      "fileType" : 4096
-    },
     "\/beaujean-fr\/reefer.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -738,17 +474,6 @@
       "outputAbbreviatedPath" : "\/beaujean-fr\/reefer.jpg",
       "initialSize" : 189719,
       "fileType" : 4096
-    },
-    "\/beaujean-en\/footer.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/footer.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/footer.html",
-      "fileType" : 512
     },
     "\/beaujean-en\/logo\/tcmtl.png" : {
       "ignoreWasSetByUser" : 0,
@@ -761,15 +486,15 @@
       "initialSize" : 28806,
       "fileType" : 8192
     },
-    "\/beaujean-fr\/head.jade" : {
+    "\/beaujean-en\/footer.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/head.jade",
+      "inputAbbreviatedPath" : "\/beaujean-en\/footer.jade",
       "outputStyle" : 1,
       "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/head.html",
+      "outputAbbreviatedPath" : "\/beaujean-en\/footer.html",
       "fileType" : 512
     },
     "\/beaujean-en\/equipement.jade" : {
@@ -783,27 +508,16 @@
       "outputAbbreviatedPath" : "\/beaujean-en\/equipement.html",
       "fileType" : 512
     },
-    "\/beaujean-fr\/dude.jpg" : {
+    "\/beaujean-fr\/head.jade" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/dude.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/dude.jpg",
-      "initialSize" : 209008,
-      "fileType" : 4096
-    },
-    "\/beaujean-en\/lalonde.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/lalonde.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/lalonde.jpg",
-      "initialSize" : 274179,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/beaujean-fr\/head.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/head.html",
+      "fileType" : 512
     },
     "\/beaujean-fr\/service.html" : {
       "ignoreWasSetByUser" : 0,
@@ -825,17 +539,6 @@
       "outputAbbreviatedPath" : "\/beaujean-en\/service.html",
       "fileType" : 512
     },
-    "\/beaujean-fr\/ss1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/ss1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/ss1.jpg",
-      "initialSize" : 847097,
-      "fileType" : 4096
-    },
     "\/beaujean-en\/style.styl" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -848,17 +551,6 @@
       "fileType" : 8,
       "debugStyle" : 0
     },
-    "\/beaujean-fr\/es0.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/es0.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/es0.jpg",
-      "initialSize" : 242591,
-      "fileType" : 4096
-    },
     "\/beaujean-en\/head.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -869,28 +561,6 @@
       "compileDebug" : 1,
       "outputAbbreviatedPath" : "\/beaujean-en\/head.html",
       "fileType" : 512
-    },
-    "\/beaujean-fr\/lemay.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/lemay.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/lemay.jpg",
-      "initialSize" : 238786,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/hs3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/hs3.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/hs3.jpg",
-      "initialSize" : 193713,
-      "fileType" : 4096
     }
   },
   "manualImportLinks" : [
@@ -1068,5 +738,11 @@
     "lessDebugStyle" : 0,
     "javascriptAutoOutputPathRelativePath" : "",
     "slimAutoOutputPathStyle" : 0
+  },
+  "projectAttributes" : {
+    "bourbonEnabled" : 0,
+    "displayValue" : "beaujean",
+    "displayValueWasSetByUser" : 0,
+    "compassEnabled" : 0
   }
 }
