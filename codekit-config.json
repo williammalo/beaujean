@@ -87,8 +87,8 @@
       "fileType" : 64
     },
     "\/beaujean-en\/index.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/beaujean-en\/index.jade",
@@ -243,8 +243,8 @@
       "fileType" : 512
     },
     "\/beaujean-fr\/index.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/beaujean-fr\/index.jade",
