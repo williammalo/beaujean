@@ -2,183 +2,6 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8248",
   "files" : {
-    "\/beaujean-en\/parking.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/parking.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/parking.jpg",
-      "initialSize" : 192499,
-      "fileType" : 4096
-    },
-    "\/beaujean-en\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/beaujean-en\/logo\/cptq.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/cptq.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/cptq.jpg",
-      "initialSize" : 4804,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/logo.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/logo.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/logo.png",
-      "initialSize" : 27056,
-      "fileType" : 8192
-    },
-    "\/beaujean-fr\/footer.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/footer.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/beaujean-en\/mediaqueries.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/mediaqueries.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/mediaqueries-ck.js",
-      "fileType" : 64
-    },
-    "\/beaujean-fr\/logo\/cantruck.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/logo\/cantruck.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/logo\/cantruck.jpg",
-      "initialSize" : 5903,
-      "fileType" : 4096
-    },
-    "\/beaujean-en\/ie9.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/ie9.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/ie9-ck.js",
-      "fileType" : 64
-    },
-    "\/beaujean-en\/index.jade" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/index.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/index.html",
-      "fileType" : 512
-    },
-    "\/beaujean-fr\/404.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/404.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/beaujean-fr\/logo\/acq.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/logo\/acq.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/logo\/acq.jpg",
-      "initialSize" : 3662,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/equipement.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/equipement.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/equipement.html",
-      "fileType" : 512
-    },
-    "\/beaujean-en\/service.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/service.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/beaujean-fr\/reefern.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/reefern.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/reefern.jpg",
-      "initialSize" : 58634,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/logo\/ctcq.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/logo\/ctcq.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/logo\/ctcq.jpg",
-      "initialSize" : 12720,
-      "fileType" : 4096
-    },
-    "\/beaujean-en\/equipement.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/equipement.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/beaujean-en\/404.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/404.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/404.html",
-      "fileType" : 512
-    },
     "\/beaujean-fr\/style.styl" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -191,32 +14,35 @@
       "fileType" : 8,
       "debugStyle" : 0
     },
-    "\/beaujean-fr\/favicon.png" : {
+    "\/beaujean-en\/style.styl" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/favicon.png",
+      "inputAbbreviatedPath" : "\/beaujean-en\/style.styl",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-en\/style.css",
+      "fileType" : 8,
+      "debugStyle" : 0
+    },
+    "\/beaujean-en\/logo\/tcmtl.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/tcmtl.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/favicon.png",
-      "initialSize" : 20414,
+      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/tcmtl.png",
+      "initialSize" : 28806,
       "fileType" : 8192
     },
-    "\/beaujean-fr\/style.css" : {
+    "\/beaujean-fr\/equipement.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/beaujean-fr\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/index.html",
+      "inputAbbreviatedPath" : "\/beaujean-fr\/equipement.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -231,76 +57,23 @@
       "initialSize" : 3662,
       "fileType" : 4096
     },
-    "\/beaujean-fr\/footer.jade" : {
+    "\/beaujean-en\/equipement.jade" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/footer.jade",
+      "inputAbbreviatedPath" : "\/beaujean-en\/equipement.jade",
       "outputStyle" : 1,
       "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/footer.html",
+      "outputAbbreviatedPath" : "\/beaujean-en\/equipement.html",
       "fileType" : 512
     },
-    "\/beaujean-fr\/index.jade" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/index.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/index.html",
-      "fileType" : 512
-    },
-    "\/beaujean-fr\/ie9.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/ie9.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/ie9-ck.js",
-      "fileType" : 64
-    },
-    "\/beaujean-fr\/mediaqueries.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/mediaqueries.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/mediaqueries-ck.js",
-      "fileType" : 64
-    },
-    "\/beaujean-en\/logo\/cantruck.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/cantruck.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/cantruck.jpg",
-      "initialSize" : 5903,
-      "fileType" : 4096
-    },
-    "\/beaujean-en\/style.css" : {
+    "\/beaujean-en\/404.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/beaujean-en\/footer.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/footer.html",
+      "inputAbbreviatedPath" : "\/beaujean-en\/404.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -315,35 +88,37 @@
       "initialSize" : 189719,
       "fileType" : 4096
     },
-    "\/beaujean-fr\/logo\/cptq.jpg" : {
+    "\/beaujean-en\/parking.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/logo\/cptq.jpg",
+      "inputAbbreviatedPath" : "\/beaujean-en\/parking.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/logo\/cptq.jpg",
-      "initialSize" : 4804,
+      "outputAbbreviatedPath" : "\/beaujean-en\/parking.jpg",
+      "initialSize" : 192499,
       "fileType" : 4096
     },
-    "\/beaujean-fr\/equipement.html" : {
+    "\/beaujean-fr\/logo\/ctcq.jpg" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/equipement.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/beaujean-fr\/logo\/ctcq.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/logo\/ctcq.jpg",
+      "initialSize" : 12720,
+      "fileType" : 4096
     },
-    "\/footer.jade" : {
+    "\/beaujean-en\/service.jade" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/footer.jade",
+      "inputAbbreviatedPath" : "\/beaujean-en\/service.jade",
       "outputStyle" : 1,
       "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/footer.html",
+      "outputAbbreviatedPath" : "\/beaujean-en\/service.html",
       "fileType" : 512
     },
     "\/beaujean-fr\/logo\/tcmtl.png" : {
@@ -357,12 +132,63 @@
       "initialSize" : 28806,
       "fileType" : 8192
     },
-    "\/beaujean-en\/404.html" : {
+    "\/beaujean-fr\/logo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/logo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/logo.png",
+      "initialSize" : 27056,
+      "fileType" : 8192
+    },
+    "\/beaujean-fr\/service.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/404.html",
+      "inputAbbreviatedPath" : "\/beaujean-fr\/service.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/beaujean-en\/footer.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/footer.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-en\/footer.html",
+      "fileType" : 512
+    },
+    "\/beaujean-en\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/beaujean-fr\/parking.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/parking.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/parking.jpg",
+      "initialSize" : 192499,
+      "fileType" : 4096
+    },
+    "\/beaujean-fr\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -377,37 +203,67 @@
       "initialSize" : 27056,
       "fileType" : 8192
     },
-    "\/beaujean-fr\/parking.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/parking.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/parking.jpg",
-      "initialSize" : 192499,
-      "fileType" : 4096
-    },
-    "\/beaujean-fr\/google13bd3d1c336b7d4c.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/google13bd3d1c336b7d4c.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/style.styl" : {
+    "\/beaujean-fr\/footer.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/style.styl",
+      "inputAbbreviatedPath" : "\/beaujean-fr\/footer.jade",
       "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/style.css",
-      "fileType" : 8,
-      "debugStyle" : 0
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/footer.html",
+      "fileType" : 512
+    },
+    "\/beaujean-en\/logo\/cantruck.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/cantruck.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/cantruck.jpg",
+      "initialSize" : 5903,
+      "fileType" : 4096
+    },
+    "\/beaujean-en\/equipement.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/equipement.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/beaujean-en\/logo\/cptq.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/cptq.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/cptq.jpg",
+      "initialSize" : 4804,
+      "fileType" : 4096
+    },
+    "\/beaujean-en\/head.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/head.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-en\/head.html",
+      "fileType" : 512
+    },
+    "\/beaujean-en\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/beaujean-fr\/service.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -431,6 +287,121 @@
       "outputAbbreviatedPath" : "\/beaujean-fr\/404.html",
       "fileType" : 512
     },
+    "\/beaujean-en\/logo\/ctcq.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/ctcq.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/ctcq.jpg",
+      "initialSize" : 12720,
+      "fileType" : 4096
+    },
+    "\/beaujean-fr\/mediaqueries.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/mediaqueries.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/mediaqueries-ck.js",
+      "fileType" : 64
+    },
+    "\/beaujean-fr\/logo\/acq.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/logo\/acq.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/logo\/acq.jpg",
+      "initialSize" : 3662,
+      "fileType" : 4096
+    },
+    "\/beaujean-fr\/google13bd3d1c336b7d4c.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/google13bd3d1c336b7d4c.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/beaujean-en\/404.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/404.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-en\/404.html",
+      "fileType" : 512
+    },
+    "\/beaujean-en\/mediaqueries.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/mediaqueries.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-en\/mediaqueries-ck.js",
+      "fileType" : 64
+    },
+    "\/beaujean-en\/footer.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/footer.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/beaujean-fr\/head.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/head.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/head.html",
+      "fileType" : 512
+    },
+    "\/beaujean-fr\/index.jade" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/index.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/index.html",
+      "fileType" : 512
+    },
+    "\/beaujean-fr\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/beaujean-fr\/reefern.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/reefern.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/reefern.jpg",
+      "initialSize" : 58634,
+      "fileType" : 4096
+    },
     "\/beaujean-en\/favicon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -442,15 +413,100 @@
       "initialSize" : 1615,
       "fileType" : 8192
     },
-    "\/beaujean-en\/logo\/ctcq.jpg" : {
+    "\/beaujean-fr\/footer.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/footer.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/style.styl" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/style.styl",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/style.css",
+      "fileType" : 8,
+      "debugStyle" : 0
+    },
+    "\/beaujean-fr\/equipement.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/ctcq.jpg",
+      "inputAbbreviatedPath" : "\/beaujean-fr\/equipement.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/equipement.html",
+      "fileType" : 512
+    },
+    "\/beaujean-en\/service.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/service.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/beaujean-fr\/logo\/cantruck.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/logo\/cantruck.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/ctcq.jpg",
-      "initialSize" : 12720,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/logo\/cantruck.jpg",
+      "initialSize" : 5903,
+      "fileType" : 4096
+    },
+    "\/beaujean-en\/index.jade" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-en\/index.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/beaujean-en\/index.html",
+      "fileType" : 512
+    },
+    "\/beaujean-fr\/favicon.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/favicon.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/favicon.png",
+      "initialSize" : 20414,
+      "fileType" : 8192
+    },
+    "\/footer.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/footer.jade",
+      "outputStyle" : 1,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/footer.html",
+      "fileType" : 512
+    },
+    "\/beaujean-fr\/logo\/cptq.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/beaujean-fr\/logo\/cptq.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/beaujean-fr\/logo\/cptq.jpg",
+      "initialSize" : 4804,
       "fileType" : 4096
     },
     "\/head.jade" : {
@@ -475,92 +531,14 @@
       "initialSize" : 189719,
       "fileType" : 4096
     },
-    "\/beaujean-en\/logo\/tcmtl.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/logo\/tcmtl.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/logo\/tcmtl.png",
-      "initialSize" : 28806,
-      "fileType" : 8192
-    },
-    "\/beaujean-en\/footer.jade" : {
+    "\/beaujean-fr\/404.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/footer.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/footer.html",
-      "fileType" : 512
-    },
-    "\/beaujean-en\/equipement.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/equipement.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/equipement.html",
-      "fileType" : 512
-    },
-    "\/beaujean-fr\/head.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/head.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-fr\/head.html",
-      "fileType" : 512
-    },
-    "\/beaujean-fr\/service.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-fr\/service.html",
+      "inputAbbreviatedPath" : "\/beaujean-fr\/404.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/beaujean-en\/service.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/service.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/service.html",
-      "fileType" : 512
-    },
-    "\/beaujean-en\/style.styl" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/style.styl",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/beaujean-en\/style.css",
-      "fileType" : 8,
-      "debugStyle" : 0
-    },
-    "\/beaujean-en\/head.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/beaujean-en\/head.jade",
-      "outputStyle" : 1,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/beaujean-en\/head.html",
-      "fileType" : 512
     }
   },
   "manualImportLinks" : [
